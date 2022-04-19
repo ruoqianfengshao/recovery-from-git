@@ -13,7 +13,8 @@
     "readme.md"
   ],
   "repository": {
-    "url": "https://github.com/ruoqianfengshao/recovery-from-git"
+    "type": "git",
+    "url": "https://github.com/ruoqianfengshao/recovery-from-git.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

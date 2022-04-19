@@ -2,6 +2,8 @@
 
 a command line to recovery code repo from .git.
 
+Here is the [Code Repository](https://github.com/ruoqianfengshao/recovery-from-git).
+
 
 ## Install
 
